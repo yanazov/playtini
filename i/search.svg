@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="13.969" height="13.969" viewBox="0 0 13.969 13.969">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #444;
+        filter: url(#color-overlay-1);
+        fill-rule: evenodd;
+      }
+    </style>
+
+    <filter id="color-overlay-1" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#444"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+      <feBlend in2="SourceGraphic" result="solidFill"/>
+    </filter>
+  </defs>
+  <path d="M13.591,13.591 C13.079,14.104 12.248,14.104 11.735,13.591 L8.660,10.516 C7.793,11.051 6.781,11.375 5.687,11.375 C2.546,11.375 -0.000,8.828 -0.000,5.687 C-0.000,2.546 2.546,-0.000 5.687,-0.000 C8.829,-0.000 11.375,2.546 11.375,5.687 C11.375,6.781 11.051,7.793 10.516,8.660 L13.591,11.735 C14.104,12.248 14.104,13.079 13.591,13.591 ZM5.687,1.750 C3.513,1.750 1.750,3.513 1.750,5.687 C1.750,7.862 3.513,9.625 5.687,9.625 C7.862,9.625 9.625,7.862 9.625,5.687 C9.625,3.513 7.862,1.750 5.687,1.750 Z" class="cls-1"/>
+</svg>
